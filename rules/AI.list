@@ -1,4 +1,10 @@
-#Name:AI-Supplement
-#Author:Kawasaki
+# Name: AI-Supplement
+# Author: Kawasaki
+# Date: 11-20-2024
 
-DOMAIN-SUFFIX
+DOMAIN-SUFFIX,genspark.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX.civitai.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,stability.ai
